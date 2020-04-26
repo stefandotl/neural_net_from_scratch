@@ -24,3 +24,4 @@ for a in range(epoche):
 		break
 
 print(weights)
+print('hello')
